@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+div {
+    background-color: aqua;
+    border: dashed 3px gray;
+    border-right: solid 10px green;
+}
+
+p {
+    color: red;
+}
+
+span {
+    background-color: beige;
+    color: black;
+    font-weight: bolder;
+}

@@ -1,0 +1,52 @@
+body {
+    background-color: #2EC4B6;
+    text-align: center;
+}
+
+.main {
+    width: 87%;
+    margin: auto;
+    padding: 2em;
+    padding-bottom: 0.3em;
+    margin-top: -10px;
+    background-color: #011627;
+    color: white;
+}
+
+h1 {
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 4.5em;
+}
+
+#h22 {
+    margin-bottom: 2.5em;
+}
+
+p {
+    display: block;
+    width: 64%;
+    font-size: 16px;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+#p1 {
+    margin-bottom: 5em;
+}
+
+input {
+    width: 270px;
+    height: 25px;
+}
+
+[type="submit"] {
+    background-color: #FF9F1C;
+    width: 150px;
+    height: 80px;
+    border-radius: 25px;
+    font-size: 1.2em;
+}
